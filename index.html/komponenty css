@@ -17,6 +17,8 @@
                 <li><a href="#">Level 1</a></li>
                 <li><a href="#">Level 2</a></li>
                 <li><a href="#">Level 3</a></li>
+                <h1>Navigation</h1>
+                <h2>Nav-bar</h2>
             </ul>
             <form class="navbar-form navbar-right" role="search">
                 <div class="form-group">
