@@ -31,7 +31,7 @@
     </nav>
         <section class="text-center jumbotron">
             <h1>Example text <small>Smaller text</small></h1>
-            <button class="btn btn-primary">button</button>
+            <button class="btn btn-info">button</button>
             <br/>
             <br/>
         </section>
